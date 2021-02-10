@@ -1,0 +1,26 @@
+body {
+	background-color: lightblue;
+}
+
+h1 {
+	font-family: Arial;
+	font-size: 54px;
+	color: darkblue;
+}
+
+h2 {
+	font-family: Arial;
+	font-size: 36px
+}
+
+p {
+	font-family: Arial;
+	font-size: 20px;
+	border: solid;
+}
+
+ul {
+	font-family: Arial;
+	font-size: 25px;
+	color: darkblue;
+}

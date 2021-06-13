@@ -1,51 +1,32 @@
 body {
-	background-color: lightblue;
+	background-color:#2e2e2e;
 }
 
-h1 {
-	font-family: Arial;
-	font-size: 54px;
-	color: darkblue;
+h1, h2 {
+	font-family: "Georgia", serif;
+	color:#BB86FC
 }
 
 h2 {
-	font-family: Arial;
-	font-size: 36px
+	text-align: center;
+}
+
+
+ul, p, h3, ol {
+	font-family: "Georgia", serif;
+	color: #03DAC6;
+} 
+
+a {
+	color: #CF6679;
+}
+
+h1 {
+	text-align:center;
+	font-size: 40px;
 }
 
 p {
-	font-family: Arial;
-	font-size: 20px;
+	margin-left: 20px;
+	margin-right: 50px;
 }
-
-p.caption {
-	font-family: Arial;
-	font-size: 15px;
-}
-
-ul {
-	font-family: Arial;
-	font-size: 25px;
-	color: darkblue;
-}
-
-nav a {
-  color: black;
-  text-align: center;
-  font-size: 20px;
-  text-decoration: none;
-  border: solid;
-  background-color: white;
-}
-
-nav a.active {
-	background-color: black;
-	color: white;
-} 
-
-nav a:hover {
-	background-color: grey;
-	color: white;
-}
-
-
